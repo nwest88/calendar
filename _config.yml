@@ -1,0 +1,8 @@
+title: Calendar
+description: A simple Go library to calculate recurring appointment dates within a time period. Supports all types of recurrences in Outlook and Google calendar
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
